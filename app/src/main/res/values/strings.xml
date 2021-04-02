@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Live Restaurant</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reservations">Reserve sit</string>
+    <string name="reservation_image">Reservation image</string>
+    <string name="food_menu_image">Food menu image</string>
+    <string name="food_menu">Food menu</string>
+    <string name="shopping_cart">cart</string>
+    <string name="about">About</string>
+    <string name="home">Home</string>
+    <string name="display_image">display image</string>
+    <string name="welcome_to_live_restaurant">Welcome to Live Restaurant</string>
+    <string name="order_now">Order Now!</string>
+    <string name="about_us">About Us</string>
+    <string name="best_foods">Best foods</string>
+    <string name="food">Food</string>
+    <string name="food_description">We offer fast foods to our clients on time and of great quality. We also enable our clients to make reservations of our restaurant.</string>
+    <string name="esteemed_staff">Esteemed Staff</string>
+    <string name="reservations1">Reservations</string>
+    <string name="use_the_form_below">Use the form below</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="surname">Surname</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="submit">Submit</string>
+</resources>
